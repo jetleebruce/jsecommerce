@@ -1,7 +1,7 @@
 const fs = require("fs");
 const crypto = require("crypto");
 
-class UserRepository {
+class UsersRepository {
   constructor(filename) {
     if (!filename) {
       throw new Error("Create a repository requires a filename");
@@ -82,10 +82,4 @@ class UserRepository {
   }
 }
 
-const test = async () => {
-  const repo = new UserRepository("users.json");
-  const user = await repo.getOneBy({ email: "test@test.ru" });
-  console.log(user);
-};
-
-test();
+module.exports = new UsersRepository("users.json");
