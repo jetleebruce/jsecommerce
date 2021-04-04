@@ -1,1 +1,22 @@
-[{"email":"test@test.ru","password":"password"},{"email":"test@test.ru","password":"password"},{"email":"test@test.ru","password":"password"}]
+[
+  {
+    "email": "test@test.ru",
+    "password": "password"
+  },
+  {
+    "email": "test@test.ru",
+    "password": "password"
+  },
+  {
+    "email": "test@test.ru",
+    "password": "password"
+  },
+  {
+    "email": "test@test.ru",
+    "password": "password"
+  },
+  {
+    "email": "test@test.ru",
+    "password": "password"
+  }
+]
