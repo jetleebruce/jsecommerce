@@ -21,5 +21,10 @@
     "email": "admin@example.com",
     "password": "16cdb2196b9b4fa66b6f83f1e4e6a8c183b146887bd566e70264658ffcef36e4f1f4ce17a8129b8541b1b6389d496f538b81cfa3162bbcdc83d04718eff4e24c.ec1827e928bae3ee",
     "id": "e00f9059"
+  },
+  {
+    "email": "test10@test10.ru",
+    "password": "56a9c6af109ed3739a0677517c287972fece578bb0db4ca7f75601e912d3cb32047ef3980b129dbd7fcaebc69213b5b14b54dfd14e45cfc0193268329634310d.ef36842e86c5f2eb",
+    "id": "58901d19"
   }
 ]
