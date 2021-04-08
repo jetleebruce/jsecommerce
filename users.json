@@ -16,5 +16,10 @@
     "email": "test22@test.ru",
     "password": "111",
     "id": "3b8e23f6"
+  },
+  {
+    "email": "admin@example.com",
+    "password": "16cdb2196b9b4fa66b6f83f1e4e6a8c183b146887bd566e70264658ffcef36e4f1f4ce17a8129b8541b1b6389d496f538b81cfa3162bbcdc83d04718eff4e24c.ec1827e928bae3ee",
+    "id": "e00f9059"
   }
 ]
