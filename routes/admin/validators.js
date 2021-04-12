@@ -1,5 +1,5 @@
 const { check } = require('express-validator')
-const userRepo = require('../../repositories')
+const usersRepo = require('../../repositories/users')
 
 module.exports = {
   requireEmail: check("email")
