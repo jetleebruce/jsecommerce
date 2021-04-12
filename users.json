@@ -26,5 +26,25 @@
     "email": "test10@test10.ru",
     "password": "56a9c6af109ed3739a0677517c287972fece578bb0db4ca7f75601e912d3cb32047ef3980b129dbd7fcaebc69213b5b14b54dfd14e45cfc0193268329634310d.ef36842e86c5f2eb",
     "id": "58901d19"
+  },
+  {
+    "email": "test10@test10.ru",
+    "password": "c2a66438c733681e66ea76436ccd692a7fa3f4b662dcfa6a9505b0ae6bccdcf0a93f1c75dd87e12793f8480dea11e255b5b76c2a6e147355b06120435695a296.18b06c2d5568b1e6",
+    "id": "be93b2dc"
+  },
+  {
+    "email": "test10@test10.ru",
+    "password": "53a9ac4b1ba5d8dca50ec9b98e018d4a121af5019953507b4083ac490713b754d9811bb45aaefc52f92d9ab4ebb9877a7c0727cfb4c4773d634a3cb81ea7da6a.25e6021d2298b4b4",
+    "id": "ced4eea3"
+  },
+  {
+    "email": "test10@test10.ru",
+    "password": "d2da44da35df0afaf9838db2522da766ce5564ec9874b3587d7747dc92a2fed9ab03d42fabbefb60024f48671cb5170c939a776da50cc727f8b7dc7eb58958b7.a99b0b38cf6a8a96",
+    "id": "1dca0748"
+  },
+  {
+    "email": "jay@jay.com",
+    "password": "2efd201c1a304bb8486970f6d0b84dc4c0c5b5d1d763a1d1fe0a5d2e589b98c57f9577b249aa3e7f773aa5885f2001c21a0785f3719060f2f92f89702a86c47b.387bf7ecda8bdd4c",
+    "id": "db82276b"
   }
 ]
